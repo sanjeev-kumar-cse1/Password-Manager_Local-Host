@@ -8,8 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-[This is My LinkedIn Profile](https://www.linkedin.com/in/sanjeev-kumar-cse1/)
+[1. LinkedIn Profile](https://www.linkedin.com/in/sanjeev-kumar-cse1/)
 
-[This is My YouTube Channel](https://www.youtube.com/@Technology_Engineer_All)
+[2. YouTube Channel](https://www.youtube.com/@Technology_Engineer_All)
 
-[Instagram Account](https://www.instagram.com/technologyengineerall?utm_source=qr&igsh=dGU1dHFrOG0xeWF0)
+[3. Instagram Account](https://www.instagram.com/technologyengineerall?utm_source=qr&igsh=dGU1dHFrOG0xeWF0)
