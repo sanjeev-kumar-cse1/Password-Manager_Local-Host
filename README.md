@@ -13,3 +13,5 @@ Currently, two official plugins are available:
 [2. YouTube Channel](https://www.youtube.com/@Technology_Engineer_All)
 
 [3. Instagram Account](https://www.instagram.com/technologyengineerall?utm_source=qr&igsh=dGU1dHFrOG0xeWF0)
+
+[4. LeetCode ID](sanjeev-kumar-cse1)
